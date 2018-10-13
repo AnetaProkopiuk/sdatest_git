@@ -1,1 +1,2 @@
 This is first change to my commit 
+I am adding a second change to my commit 
